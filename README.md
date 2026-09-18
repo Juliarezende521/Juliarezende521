@@ -51,7 +51,7 @@ Plataforma de gestão para academias de luta, criada para reunir rotinas adminis
 ## Projetos em destaque
 
 - 👥 [API REST de Clientes](https://github.com/Juliarezende521/API-Rest-Clientes) — API completa com Java 21, Spring Boot, PostgreSQL, JPA, Flyway, Swagger, Docker e 22 testes automatizados
-- 🔄 [Conversor NL → CPC](https://github.com/Juliarezende521/nl-cpc-conversor) — ferramenta web para conversão e apoio à consulta de classificações
+- 🔄 [Conversor NL → CPC](https://github.com/Juliarezende521/nl-cpc-conversor) — projeto acadêmico desenvolvido em dupla para traduzir linguagem natural e fórmulas de cálculo proposicional
 - 🧠 [Estrutura de Dados](https://github.com/Juliarezende521/EstruturadeDados) — exercícios e implementações de estruturas e algoritmos
 - 🤝 [Trote Solidário](https://github.com/Juliarezende521/NovoSiteTrote) — aplicação acadêmica voltada a uma iniciativa solidária
 - 🧙 [Wizard Survival](https://github.com/Juliarezende521/JogoFacefMago) — jogo desenvolvido durante a graduação
