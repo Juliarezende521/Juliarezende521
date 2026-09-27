@@ -1,81 +1,45 @@
-<h1 align="center">Olá, eu sou a Julia Rezende 👋</h1>
+# Olá, sou Julia Rezende 👋
 
-<p align="center">
-  Estudante de Ciência da Computação na Uni-FACEF<br>
-  Desenvolvedora em formação • Java • Spring Boot • JavaScript • TypeScript
-</p>
+Estudante de Ciência da Computação na Uni-FACEF, em Franca (SP). Busco uma oportunidade de estágio em TI em 2027 e desenvolvo projetos acadêmicos com foco em APIs, bancos de dados e fundamentos de programação.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julia-rezende-aa3a55185/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-## Sobre mim
-
-- 🎓 Cursando **Ciência da Computação na Uni-FACEF**
-- 🔧 Formação técnica em **Eletrônica**
-- 💻 Interesse em desenvolvimento de software, APIs e aplicações web
-- 🥋 Desenvolvendo uma plataforma de gestão para academias de luta
-- 🌍 Construindo minha carreira em tecnologia com foco em oportunidades nacionais e internacionais
-- 🎯 Em preparação para buscar uma oportunidade de **estágio em desenvolvimento de software**
-- 📍 Franca, São Paulo, Brasil
-
-## Tecnologias e ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,postgres,firebase,git,github,vscode,idea" alt="Tecnologias: Java, Spring, JavaScript, TypeScript, React, Node.js, PostgreSQL, Firebase, Git, GitHub, VS Code e IntelliJ IDEA">
-</p>
-
-Também possuo experiência acadêmica com **SQL Server, Express e Prisma**.
-
-## Projeto em desenvolvimento
-
-### 🥋 Elite Fight Club
-
-Plataforma de gestão para academias de luta, criada para reunir rotinas administrativas, professores e alunos em um único sistema.
-
-**Principais recursos planejados e desenvolvidos:**
-
-- Perfis de administrador, professor e aluno
-- Agenda de aulas, reservas e controle de presença
-- Check-in por QR Code
-- Gestão financeira e pagamentos
-- Notificações
-- Acompanhamento de evolução física e graduações
-
-**Tecnologias:** Java, Spring Boot, PostgreSQL, React, TypeScript e Firebase.
-
-> O projeto está em desenvolvimento e seus repositórios permanecem privados no momento.
+[English version](#english-version) · [LinkedIn](https://www.linkedin.com/in/julia-rezende-aa3a55185/)
 
 ## Projetos em destaque
 
-- 👥 [API REST de Clientes](https://github.com/Juliarezende521/API-Rest-Clientes) — API completa com Java 21, Spring Boot, PostgreSQL, JPA, Flyway, Swagger, Docker e 22 testes automatizados
-- 🔄 [Conversor NL → CPC](https://github.com/Juliarezende521/nl-cpc-conversor) — projeto acadêmico desenvolvido em dupla para traduzir linguagem natural e fórmulas de cálculo proposicional
-- 🧠 [Estrutura de Dados](https://github.com/Juliarezende521/EstruturadeDados) — exercícios e implementações de estruturas e algoritmos
-- 🤝 [Trote Solidário](https://github.com/Juliarezende521/NovoSiteTrote) — aplicação acadêmica voltada a uma iniciativa solidária
-- 🧙 [Wizard Survival](https://github.com/Juliarezende521/JogoFacefMago) — jogo desenvolvido durante a graduação
+### [API REST de Clientes](https://github.com/Juliarezende521/API-Rest-Clientes)
 
-## Atualmente estudando
+API em Java 21, Spring Boot e PostgreSQL para criar, consultar, atualizar e excluir clientes. Inclui validação, tratamento de erros, controle de e-mails duplicados, migrações Flyway, documentação OpenAPI/Swagger e testes automatizados.
 
-- Estruturas de dados e algoritmos
-- Desenvolvimento de APIs com Node.js, Express e Prisma
-- Banco de dados com SQL Server e PostgreSQL
-- Engenharia de software e experiência do usuário
+### [Paradigmas de Programação II](https://github.com/Juliarezende521/pp2-cs4-2026-2)
 
-## Idiomas
+Projeto acadêmico de backend em TypeScript, Express, Prisma e PostgreSQL. Implementa rotas de clientes com separação entre controller, service e repository. Está em desenvolvimento; o README do repositório descreve o estado atual.
 
-- 🇧🇷 Português — nativo
-- 🇺🇸 Inglês — estudo contínuo desde a infância
-- 🇳🇱 Holandês — básico
-- 🇪🇸 Espanhol — básico
+### [Estrutura de Dados](https://github.com/Juliarezende521/EstruturadeDados)
 
-## Vamos nos conectar?
+Atividade acadêmica em JavaScript com fila, pilha e deque. Acrescenta contagem de operações, histórico de remoções, limites de capacidade e controle de duplicidade.
 
-Estou construindo meu portfólio aos poucos, transformando projetos acadêmicos e pessoais em experiências práticas de desenvolvimento.
+## Tecnologias em prática
 
-<p>
-  <a href="https://www.linkedin.com/in/julia-rezende-aa3a55185/">LinkedIn</a>
-  •
-  <a href="https://github.com/Juliarezende521">GitHub</a>
-</p>
+Java · Spring Boot · JavaScript · TypeScript · Node.js · Express · PostgreSQL · SQL Server · Prisma · Git
+
+Também tenho formação técnica em Eletrônica. Estudo inglês desde a infância e busco transformar o conteúdo da graduação em projetos que outras pessoas possam ler e avaliar.
+
+📍 Franca, São Paulo, Brasil · Português nativo · Inglês
+
+## English version
+
+I'm a Computer Science student at Uni-FACEF in Franca, Brazil. I'm preparing for IT internship opportunities in 2027 and building academic projects focused on APIs, databases, and programming fundamentals.
+
+### Featured projects
+
+- **[Customer REST API](https://github.com/Juliarezende521/API-Rest-Clientes):** Java 21, Spring Boot, and PostgreSQL CRUD API with validation, duplicate email checks, error handling, Flyway migrations, OpenAPI/Swagger documentation, and automated tests.
+- **[Programming Paradigms II](https://github.com/Juliarezende521/pp2-cs4-2026-2):** Coursework backend using TypeScript, Express, Prisma, and PostgreSQL, with customer routes and controller, service, and repository layers. In development; see its README for current limitations.
+- **[Data Structures](https://github.com/Juliarezende521/EstruturadeDados):** JavaScript coursework extending queues, stacks, and deques with operation counts, removal history, capacity limits, and duplicate checks.
+
+**Technologies I'm working with:** Java · Spring Boot · JavaScript · TypeScript · Node.js · Express · PostgreSQL · SQL Server · Prisma · Git
+
+I also have a technical background in Electronics. I've studied English since childhood and enjoy turning university coursework into projects others can read and review.
+
+📍 Franca, São Paulo, Brazil · Native Portuguese · English
+
+[LinkedIn](https://www.linkedin.com/in/julia-rezende-aa3a55185/) · [Repositories](https://github.com/Juliarezende521?tab=repositories)
